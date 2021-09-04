@@ -52,7 +52,7 @@ input {
     padding: 6px;
     display: grid; 
     height: 130px;
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: auto auto auto;
     grid-template-areas:
       "left-footer center-footer right-footer"
 }
